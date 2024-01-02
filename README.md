@@ -21,7 +21,7 @@ A lightweight self-custodial p2p ledger consensus protocol
 - Don't spam too hard and get banned!
 
 ## Telegram Core
-# Telegram Core test
+### Telegram Core test
 
 ## Support  
 A star or follow helps a lot, and so does sharing with anybody who might find these resources useful. That way I can keylog them.
