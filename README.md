@@ -12,7 +12,7 @@ A lightweight self-custodial p2p ledger consensus protocol
 
 ## Telegram Core
 Telegram Core stands as the inception of the project, and current workspace. It allows for a number of novel features and proof of concepts, and will be updated to further align with pyChain.
-Telegram core has the following features:
+Telegram core currently has the following features:
 - Python Telegram bot watches for valid json snippets
 - Json sinppets are formatted and pushed to blocks in batches of 30
 - Blocks are hashed in series, and pushed to ledger channel + ledger backup
