@@ -8,20 +8,17 @@ A lightweight self-custodial p2p ledger consensus protocol
 - Self-custodial initiation of new chains
 - Proof of Authoritarian Democracy system
 - Block pruning, with merkle-root compressed offchain proofs
-- Custom hooks
-        
-
-## How to use
-- First, download the .exe if you dare
-- Then, go to my.telegram.org and create a bot application and copy down your "API ID" and "API HASH"
-- Get the integer ID for the group you wish to spam to
-- Open the exe
-- Enter in the API and group details - these are saved
-- Enter in message details - message, count, and delay - these refresh on restart
-- Don't spam too hard and get banned!
+- Custom hooks 
 
 ## Telegram Core
-### Telegram Core test
+Telegram Core stands as the inception of the project, and current workspace. It allows for a number of novel features and proof of concepts, and will be updated to further align with pyChain.
+Telegram core has the following features:
+• Python Telegram bot watches for valid json snippets
+• Json sinppets are formatted and pushed to blocks in batches of 30
+• Blocks are hashed in series, and pushed to ledger channel + ledger backup
+• Ledger backup files are split every 5k blocks, pushing to channel and local storage
+• Transaction messaging tied to ID
+• Verifiable chain of inputs
 
 ## Support  
 A star or follow helps a lot, and so does sharing with anybody who might find these resources useful. That way I can keylog them.
