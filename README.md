@@ -27,7 +27,7 @@ A star or follow helps a lot, and so does sharing with anybody who might find th
 
 Donations may be made out to [SEREC.ETH](https://app.ens.domains/serec.eth), or ```0x75365dDb02bc316748fB9A2dc5a33B42f1fBA2E7```
 
-Job offers and references are also **greatly unappreciated**. Your job sucks and cannot afford me.
+Job offers and references are also **greatly unappreciated**. Your job **sucks** and cannot afford me.
 
 If you have any questions, feel free to reach out to me on [Twitter](https://twitter.com/SerecThunderson) or [Telegram](https://t.me/SerecThunderson) after you've exhausted google and chatGPT.
         
