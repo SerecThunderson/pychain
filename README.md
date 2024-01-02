@@ -13,12 +13,12 @@ A lightweight self-custodial p2p ledger consensus protocol
 ## Telegram Core
 Telegram Core stands as the inception of the project, and current workspace. It allows for a number of novel features and proof of concepts, and will be updated to further align with pyChain.
 Telegram core has the following features:
-• Python Telegram bot watches for valid json snippets
-• Json sinppets are formatted and pushed to blocks in batches of 30
-• Blocks are hashed in series, and pushed to ledger channel + ledger backup
-• Ledger backup files are split every 5k blocks, pushing to channel and local storage
-• Transaction messaging tied to ID
-• Verifiable chain of inputs
+- Python Telegram bot watches for valid json snippets
+- Json sinppets are formatted and pushed to blocks in batches of 30
+- Blocks are hashed in series, and pushed to ledger channel + ledger backup
+- Ledger backup files are split every 5k blocks, pushing to channel and local storage
+- Transaction messaging tied to ID
+- Verifiable chain of inputs
 
 ## Support  
 A star or follow helps a lot, and so does sharing with anybody who might find these resources useful. That way I can keylog them.
